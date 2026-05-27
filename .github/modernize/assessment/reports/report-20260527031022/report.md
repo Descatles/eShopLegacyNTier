@@ -18,8 +18,8 @@
 
 ## Cloud Readiness Issues
 
-| Issue Name | Criticality | Story Points | Occurrences (incidents) |
-|------------|-------------|--------------|-------------------------|
+| Issue Name | Criticality | Story Points | Incidents |
+|------------|-------------|--------------|-----------|
 | SQL database connection detected | Potential | 3 | [1](#SQL_database_connection_detected) |
 | Connection strings without configuration builders detected | Optional | 3 | [2](#Connection_strings_without_configuration_builders_detected) |
 | Static content detected | Optional | 3 | [1](#Static_content_detected) |
