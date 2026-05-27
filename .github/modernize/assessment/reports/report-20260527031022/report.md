@@ -30,7 +30,7 @@
 <details id="SQL_database_connection_detected">
 <summary><b>SQL database connection detected</b> — affected files</summary>
 
-- `./src/eShopWCFService/Web.config`
+- `./src/eShopWCFService/Web.config` (1 incident)
 
 </details>
 
@@ -44,14 +44,14 @@
 <details id="Static_content_detected">
 <summary><b>Static content detected</b> — affected files</summary>
 
-- `.`
+- `.` (1 incident)
 
 </details>
 
 <details id="System_Data_SqlClient_dependency_detected">
 <summary><b>System.Data.SqlClient dependency detected</b> — affected files</summary>
 
-- `./src/eShopWCFService/Web.config`
+- `./src/eShopWCFService/Web.config` (1 incident)
 
 </details>
 
