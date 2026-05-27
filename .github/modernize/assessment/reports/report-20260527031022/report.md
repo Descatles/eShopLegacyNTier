@@ -37,8 +37,7 @@
 <details id="Connection_strings_without_configuration_builders_detected">
 <summary><b>Connection strings without configuration builders detected</b> — affected files</summary>
 
-- `./src/eShopWCFService/Web.config`
-- `./src/eShopWCFService/Web.config`
+- `./src/eShopWCFService/Web.config` (2 incidents)
 
 </details>
 
